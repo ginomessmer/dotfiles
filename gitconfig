@@ -1,0 +1,5 @@
+[core]
+	excludesfile = ~/.gitignore_global
+[user]
+	name = Gino Messmer
+	email = g.messmer@ftsoftware.eu
